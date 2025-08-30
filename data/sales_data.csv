@@ -1,0 +1,10 @@
+Date,Region,Product,Sales,Units,Marketing_Spend,Leads,Conversions
+2025-01-01,North,Laptop,15000,30,5000,120,30
+2025-01-01,South,Mobile,10000,50,4000,90,25
+2025-01-01,East,Tablet,7000,20,3000,70,18
+2025-01-02,North,Laptop,18000,35,6000,130,35
+2025-01-02,West,Mobile,12000,55,4500,100,28
+2025-01-02,South,Tablet,8000,25,3500,80,22
+2025-01-03,East,Laptop,20000,40,6500,140,38
+2025-01-03,West,Mobile,15000,60,4800,110,30
+2025-01-03,North,Tablet,9000,30,3700,85,20
